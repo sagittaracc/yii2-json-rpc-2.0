@@ -36,7 +36,7 @@ Easiest way to use in 4 steps:<br/>
 
     in ./composer.json add into 'require' section
     ~~~javascript
-        "cranetm/yii2-json-rpc-2.0": "1.*"
+        "sagittaracc/yii2-json-rpc-2.0": "@dev"
     ~~~
     and in console/terminal run
     ~~~php
